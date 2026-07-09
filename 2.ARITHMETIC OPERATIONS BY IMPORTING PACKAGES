@@ -1,0 +1,4 @@
+from Arithmetic.add import add
+from Arithmetic.sub import sub
+print("Addition Result:", add(10, 5))
+print("Subtraction Result:", sub(10, 5))
